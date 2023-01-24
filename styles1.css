@@ -55,3 +55,7 @@ body {
     cursor: pointer;
     width: 5vw;
 }
+
+a:visited {
+  color: brown;
+}
